@@ -1,0 +1,16 @@
+[
+  {"entity":"transaction","legacy_id":"legacy_txn_053","description":"Hilton Room Payment","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"46199"},
+  {"entity":"transaction","legacy_id":"legacy_txn_054","description":"Home Frabrics","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"46195"},
+  {"entity":"transaction","legacy_id":"legacy_txn_055","description":"Apex Awards Signs & Engravings","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"46195"},
+  {"entity":"transaction","legacy_id":"legacy_txn_056","description":"700 Wines & Spirits","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"46180"},
+  {"entity":"transaction","legacy_id":"legacy_txn_057","description":"Bahamas Engraving Plaque - In club leadership tour","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"45883"},
+  {"entity":"transaction","legacy_id":"legacy_txn_058","description":"The Purple Brew","issue":"Transaction date falls outside the 2026/2027 program year; verify whether it is a prepayment/prior-year cost assigned to this budget","raw_value":"45478"},
+  {"entity":"transaction","legacy_id":"legacy_txn_059","description":"Refreshment Outflow","issue":"Invalid or malformed transaction date","raw_value":"08/11/0206"},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_005","member_name":"Donovan 'Jay' Rolle","issue":"Payment was made before the 2026/2027 program year; likely a prepayment and should be confirmed","raw_value":"46156"},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_006","member_name":"Paul Taylor","issue":"Payment was made before the 2026/2027 program year; likely a prepayment and should be confirmed","raw_value":"46198"},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_049","member_name":"Crispin Gibson","issue":"Payment amount exists but payment date is missing","raw_value":null},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_050","member_name":"Lasalle Thompson","issue":"Payment was made before the 2026/2027 program year; likely a prepayment and should be confirmed","raw_value":"46156"},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_056","member_name":"Paul Coakley","issue":"Payment amount exists but payment date is missing","raw_value":null},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_059","member_name":"Tyler Collie","issue":"Payment amount exists but payment date is missing","raw_value":null},
+  {"entity":"dues_payment","legacy_id":"legacy_dues_060","member_name":"Nigel Hepburn","issue":"Payment amount exists but payment date is missing","raw_value":null}
+]
