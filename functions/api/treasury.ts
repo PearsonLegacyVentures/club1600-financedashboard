@@ -1,6 +1,7 @@
 interface Env {
   TREASURY_API_URL?: string;
   TREASURY_API_TOKEN?: string;
+  TREASURY_SESSION_SECRET?: string;
 }
 
 type PagesContext = {
@@ -18,7 +19,23 @@ const json = (body: unknown, status = 200) =>
     },
   });
 
+const cookieValue = (request: Request, name: string) => {
+  const cookies = request.headers.get("cookie") || "";
+  const match = cookies
+    .split(";")
+    .map((part) => part.trim())
+    .find((part) => part.startsWith(name + "="));
+  return match ? decodeURIComponent(match.slice(name.length + 1)) : "";
+};
+
 export const onRequest = async ({ request, env }: PagesContext): Promise<Response> => {
+  if (
+    !env.TREASURY_SESSION_SECRET ||
+    cookieValue(request, "club1600_session") !== env.TREASURY_SESSION_SECRET
+  ) {
+    return json({ ok: false, error: "Authentication required." }, 401);
+  }
+
   if (!env.TREASURY_API_URL || !env.TREASURY_API_TOKEN) {
     return json(
       {
