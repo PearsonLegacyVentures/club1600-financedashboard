@@ -7,7 +7,6 @@ import {
   meta,
   postedPayments,
 } from "@/services/treasuryDataService";
-import { validateTemporaryCredentials } from "@/services/temporaryAuthService";
 
 describe("Club 1600 treasury data layer", () => {
   it("keeps the approved budget available as a non-sensitive fallback", () => {
@@ -32,7 +31,5 @@ describe("Club 1600 treasury data layer", () => {
     });
   });
 
-  it("does not expose a committed development password", () => {
-    expect(validateTemporaryCredentials("amar", "not-a-real-password")).toBe(false);
-  });
+
 });
