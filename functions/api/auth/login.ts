@@ -17,7 +17,7 @@ export const onRequestPost = async ({ request, env }: PagesContext) => {
     return json({ ok: false, error: "Treasury login is not configured." }, 503);
   }
 
-  const body = await request.json<{ username?: string; password?: string }>();
+  const body = (await request.json()) as { username?: string; password?: string };
   if (body.username !== env.TREASURY_USERNAME || body.password !== env.TREASURY_PASSWORD) {
     return json({ ok: false, error: "Incorrect username or password." }, 401);
   }
