@@ -69,7 +69,7 @@ export const onRequest = async ({ request, env }: PagesContext): Promise<Respons
     }
 
     if (request.method === "POST") {
-      const body = await request.json<Record<string, unknown>>();
+      const body = (await request.json()) as Record<string, unknown>;
       const upstream = await fetch(env.TREASURY_API_URL, {
         method: "POST",
         headers: { "Content-Type": "text/plain;charset=UTF-8" },
