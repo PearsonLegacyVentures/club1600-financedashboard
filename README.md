@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-Production login is configured through Cloudflare server-side secrets. The requested username is `amar`; keep the password only in Cloudflare, not in this public repository.
+Production username is fixed to `amar`. The password is read from the server-side Cloudflare `TREASURY_PASSWORD` secret so it is not exposed in this public repository.
 
 For optional local Vite development, create an uncommitted `.env.local` with `VITE_DEV_TREASURY_USERNAME` and `VITE_DEV_TREASURY_PASSWORD`.
 
@@ -61,7 +61,6 @@ dist
 
 Set these **server-side** Cloudflare variables/secrets:
 
-- `TREASURY_USERNAME=amar`
 - `TREASURY_PASSWORD=<private password>`
 - `TREASURY_SESSION_SECRET=<long random secret>`
 - `TREASURY_API_URL=<Apps Script /exec URL>`
