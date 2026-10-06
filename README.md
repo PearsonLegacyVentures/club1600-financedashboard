@@ -21,10 +21,9 @@ npm install
 npm run dev
 ```
 
-Local Vite development uses the requested temporary credentials:
+Production login is configured through Cloudflare server-side secrets. The requested username is `amar`; keep the password only in Cloudflare, not in this public repository.
 
-- Username: `treasurer`
-- Password: `1600`
+For optional local Vite development, create an uncommitted `.env.local` with `VITE_DEV_TREASURY_USERNAME` and `VITE_DEV_TREASURY_PASSWORD`.
 
 Live financial data is not bundled into the public frontend. Without the Cloudflare/Google Sheets connection, the app uses only a local browser cache if one already exists.
 
@@ -62,8 +61,8 @@ dist
 
 Set these **server-side** Cloudflare variables/secrets:
 
-- `TREASURY_USERNAME=treasurer`
-- `TREASURY_PASSWORD=1600`
+- `TREASURY_USERNAME=amar`
+- `TREASURY_PASSWORD=<private password>`
 - `TREASURY_SESSION_SECRET=<long random secret>`
 - `TREASURY_API_URL=<Apps Script /exec URL>`
 - `TREASURY_API_TOKEN=<same private token configured in Apps Script>`

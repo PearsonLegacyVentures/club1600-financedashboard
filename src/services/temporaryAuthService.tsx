@@ -12,8 +12,11 @@ type AuthContextValue = {
 
 const AuthContext = createContext<AuthContextValue | null>(null);
 
+const DEV_USERNAME = import.meta.env.VITE_DEV_TREASURY_USERNAME;
+const DEV_PASSWORD = import.meta.env.VITE_DEV_TREASURY_PASSWORD;
+
 export const validateTemporaryCredentials = (username: string, password: string) =>
-  username === "treasurer" && password === "1600";
+  Boolean(DEV_USERNAME && DEV_PASSWORD && username === DEV_USERNAME && password === DEV_PASSWORD);
 
 async function readServerSession(): Promise<boolean | null> {
   try {
@@ -43,7 +46,7 @@ export function TemporaryAuthProvider({ children }: { children: ReactNode }) {
       if (server !== null) {
         setAuthenticated(server);
       } else if (import.meta.env.DEV && typeof window !== "undefined") {
-        setAuthenticated(window.localStorage.getItem(SESSION_KEY) === "treasurer");
+        setAuthenticated(window.localStorage.getItem(SESSION_KEY) === "authenticated");
       }
       setChecking(false);
     })();
@@ -73,7 +76,7 @@ export function TemporaryAuthProvider({ children }: { children: ReactNode }) {
     }
 
     if (import.meta.env.DEV && validateTemporaryCredentials(username, password)) {
-      window.localStorage.setItem(SESSION_KEY, "treasurer");
+      window.localStorage.setItem(SESSION_KEY, "authenticated");
       setAuthenticated(true);
       return true;
     }
