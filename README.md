@@ -23,8 +23,8 @@ npm run dev
 
 Local Vite development uses the requested temporary credentials:
 
-- Username: `treasurer`
-- Password: `1600`
+- Username: `amar`
+- Password: `100in100`
 
 Live financial data is not bundled into the public frontend. Without the Cloudflare/Google Sheets connection, the app uses only a local browser cache if one already exists.
 
@@ -62,8 +62,8 @@ dist
 
 Set these **server-side** Cloudflare variables/secrets:
 
-- `TREASURY_USERNAME=treasurer`
-- `TREASURY_PASSWORD=1600`
+- `TREASURY_USERNAME=amar`
+- `TREASURY_PASSWORD=100in100`
 - `TREASURY_SESSION_SECRET=<long random secret>`
 - `TREASURY_API_URL=<Apps Script /exec URL>`
 - `TREASURY_API_TOKEN=<same private token configured in Apps Script>`
