@@ -1,9 +1,5 @@
 import budgetSource from "@/data/club1600_budget.json";
-import duesSource from "@/data/club1600_dues.json";
-import issuesSource from "@/data/club1600_issues.json";
-import membersSource from "@/data/club1600_members.json";
 import metaSource from "@/data/club1600_meta.json";
-import transactionsSource from "@/data/club1600_transactions.json";
 import {
   fetchGoogleSheetsSnapshot,
   postGoogleSheetsAction,
@@ -123,7 +119,7 @@ const eventGroups: Record<number, string> = {
 };
 
 export let meta: TreasuryMeta = { ...(metaSource as TreasuryMeta) };
-export let issues: DataIssue[] = issuesSource as DataIssue[];
+export let issues: DataIssue[] = [];
 export let budget: BudgetLine[] = budgetSource.map((line) => ({
   item: line.item_number,
   name: line.name,
@@ -136,47 +132,7 @@ export let budget: BudgetLine[] = budgetSource.map((line) => ({
 }));
 
 function sourceState(): TreasuryState {
-  const paymentsByMember = new Map<string, Payment[]>();
-  for (const payment of duesSource) {
-    const payments = paymentsByMember.get(payment.member_legacy_id) ?? [];
-    payments.push({
-      id: payment.legacy_id,
-      date: payment.payment_date,
-      amount: payment.amount,
-      method: payment.payment_method_or_note,
-      status: payment.status as RecordStatus,
-      issues: payment.issues,
-    });
-    paymentsByMember.set(payment.member_legacy_id, payments);
-  }
-
-  const members: Member[] = membersSource.map((member) => ({
-    id: member.legacy_id,
-    name: member.full_name,
-    type: member.member_type === "new" ? "New" : "Existing",
-    expected: member.expected_dues,
-    payments: paymentsByMember.get(member.legacy_id) ?? [],
-    computedStatus: member.computed_status,
-    notes: member.notes,
-    special: member.computed_status === "covered_by_club" ? "Covered by Club" : undefined,
-  }));
-
-  const transactions: Transaction[] = transactionsSource.map((transaction) => ({
-    id: transaction.legacy_id,
-    date: transaction.transaction_date,
-    rawDate: transaction.raw_date,
-    itemNumber: transaction.item_number,
-    type: transaction.type as TxType,
-    category: budget.find((line) => line.item === transaction.item_number)?.name ?? transaction.category,
-    description: transaction.description,
-    amount: transaction.amount,
-    account: "Operating account",
-    method: "Legacy record",
-    status: transaction.status as RecordStatus,
-    issues: transaction.issues,
-  }));
-
-  return { transactions, members };
+  return { transactions: [], members: [] };
 }
 
 const clone = <T,>(value: T): T => JSON.parse(JSON.stringify(value));
