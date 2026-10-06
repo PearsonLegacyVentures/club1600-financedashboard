@@ -1,5 +1,6 @@
 import budgetSource from "@/data/club1600_budget.json";
 import metaSource from "@/data/club1600_meta.json";
+import snapshotSource from "@/data/club1600_snapshot.json";
 import {
   fetchGoogleSheetsSnapshot,
   postGoogleSheetsAction,
@@ -76,6 +77,7 @@ export type TreasuryMeta = {
   legacy_workbook_actual_inflows?: number;
   legacy_workbook_actual_outflows?: number;
   legacy_workbook_net_movement?: number;
+  snapshot_updated_at?: string;
 };
 export type TreasuryState = { transactions: Transaction[]; members: Member[] };
 export type TreasurySnapshot = {
@@ -87,12 +89,12 @@ export type TreasurySnapshot = {
 };
 export type TreasurySyncResult = {
   state: TreasuryState;
-  source: "google-sheets" | "local-cache";
+  source: "google-sheets" | "sheet-snapshot";
   updatedAt?: string;
   error?: string;
 };
 
-const STORAGE_KEY = "club1600-treasury-working-data-v2";
+const STORAGE_KEY = "club1600-treasury-working-data-v3";
 const eventGroups: Record<number, string> = {
   6: "installation",
   7: "ladies-night",
@@ -119,7 +121,7 @@ const eventGroups: Record<number, string> = {
 };
 
 export let meta: TreasuryMeta = { ...(metaSource as TreasuryMeta) };
-export let issues: DataIssue[] = [];
+export let issues: DataIssue[] = (snapshotSource.issues || []) as DataIssue[];
 export let budget: BudgetLine[] = budgetSource.map((line) => ({
   item: line.item_number,
   name: line.name,
@@ -132,7 +134,10 @@ export let budget: BudgetLine[] = budgetSource.map((line) => ({
 }));
 
 function sourceState(): TreasuryState {
-  return { transactions: [], members: [] };
+  return {
+    transactions: snapshotSource.transactions as Transaction[],
+    members: snapshotSource.members as Member[],
+  };
 }
 
 const clone = <T,>(value: T): T => JSON.parse(JSON.stringify(value));
@@ -225,8 +230,8 @@ export async function syncTreasuryData(): Promise<TreasurySyncResult> {
   } catch (error) {
     return {
       state: loadTreasuryData(),
-      source: "local-cache",
-      error: error instanceof Error ? error.message : "Google Sheets sync is unavailable.",
+      source: "sheet-snapshot",
+      error: error instanceof Error ? error.message : "Live Google Sheets sync is unavailable.",
     };
   }
 }
