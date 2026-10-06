@@ -4,11 +4,12 @@
   "program_year_start": "2026-07-01",
   "program_year_end": "2027-06-30",
   "currency": "BSD",
-  "approved_budgeted_inflows": 69413.0,
-  "approved_budgeted_outflows": 69413.0,
-  "legacy_workbook_actual_inflows": 28627.0,
-  "legacy_workbook_actual_outflows": 10476.37,
-  "legacy_workbook_net_movement": 18150.63,
-  "source": "Annual budget Tracking 2026_2027 T",
-  "note": "Legacy actuals are retained for reconciliation only. App totals should calculate from source records after review."
+  "approved_budgeted_inflows": 138826,
+  "approved_budgeted_outflows": 138826,
+  "legacy_workbook_actual_inflows": 33727,
+  "legacy_workbook_actual_outflows": 19689.860000000004,
+  "legacy_workbook_net_movement": 14037.139999999996,
+  "source": "Annual budget Tracking 2026/2027 T — Google Sheets",
+  "note": "Current website snapshot populated from the Club 1600 Google Sheet. Live API sync remains available when configured.",
+  "snapshot_updated_at": "2026-10-05T23:31:00-04:00"
 }
