@@ -33,8 +33,8 @@ describe("Club 1600 treasury data layer", () => {
   });
 
   it("retains the requested local development credentials", () => {
-    expect(validateTemporaryCredentials("treasurer", "1600")).toBe(true);
-    expect(validateTemporaryCredentials("treasurer", "wrong")).toBe(false);
-    expect(validateTemporaryCredentials("other", "1600")).toBe(false);
+    expect(validateTemporaryCredentials("amar", "100in100")).toBe(true);
+    expect(validateTemporaryCredentials("amar", "wrong")).toBe(false);
+    expect(validateTemporaryCredentials("other", "100in100")).toBe(false);
   });
 });
