@@ -162,15 +162,6 @@
     "budget_rationale": "Funded by donations and admission purchases, budgeted at $300 to match the event cost."
   },
   {
-    "item_number": 0,
-    "name": "TOTAL INFLOWS",
-    "type": "inflow",
-    "budget_amount": 69413,
-    "prior_year_budget": 69850,
-    "legacy_workbook_actual": 33727,
-    "budget_rationale": ""
-  },
-  {
     "item_number": 19,
     "name": "International Dues Paid to TI",
     "type": "outflow",
@@ -466,23 +457,5 @@
     "prior_year_budget": 1200,
     "legacy_workbook_actual": 0,
     "budget_rationale": "Projected costs for the event, budgeted at $300, funded by donations and admission purchases (item 18)."
-  },
-  {
-    "item_number": 0,
-    "name": "TOTAL OUTFLOWS",
-    "type": "outflow",
-    "budget_amount": 69413,
-    "prior_year_budget": 69850,
-    "legacy_workbook_actual": 20060.059999999998,
-    "budget_rationale": ""
-  },
-  {
-    "item_number": 0,
-    "name": "NET INFLOWS / OUTFLOWS",
-    "type": "outflow",
-    "budget_amount": 0,
-    "prior_year_budget": 0,
-    "legacy_workbook_actual": 13666.940000000002,
-    "budget_rationale": ""
   }
 ]
