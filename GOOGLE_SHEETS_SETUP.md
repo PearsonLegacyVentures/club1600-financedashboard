@@ -36,7 +36,6 @@ The endpoint is still protected by the private token. The Cloudflare proxy suppl
 
 In the Cloudflare Pages project for this repo, add:
 
-- `TREASURY_USERNAME` = `amar`
 - `TREASURY_PASSWORD` = your private production password
 - `TREASURY_SESSION_SECRET` = a long random secret (32+ characters)
 - `TREASURY_API_URL` = the Apps Script `/exec` URL
@@ -44,7 +43,7 @@ In the Cloudflare Pages project for this repo, add:
 
 These are **server-side variables**. Do not name them `VITE_...`.
 
-The username/password check and the Google Sheets proxy both run server-side through Cloudflare Pages Functions.
+The username is fixed to `amar`; the password and Google Sheets proxy both run server-side through Cloudflare Pages Functions.
 
 Redeploy the site.
 
