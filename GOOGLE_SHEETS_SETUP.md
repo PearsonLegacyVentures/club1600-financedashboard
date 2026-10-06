@@ -36,8 +36,8 @@ The endpoint is still protected by the private token. The Cloudflare proxy suppl
 
 In the Cloudflare Pages project for this repo, add:
 
-- `TREASURY_USERNAME` = `treasurer`
-- `TREASURY_PASSWORD` = `1600`
+- `TREASURY_USERNAME` = `amar`
+- `TREASURY_PASSWORD` = `100in100`
 - `TREASURY_SESSION_SECRET` = a long random secret (32+ characters)
 - `TREASURY_API_URL` = the Apps Script `/exec` URL
 - `TREASURY_API_TOKEN` = the exact token entered in Apps Script
