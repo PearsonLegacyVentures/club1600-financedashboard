@@ -1,10 +1,11 @@
 interface Env {
-  TREASURY_USERNAME?: string;
   TREASURY_PASSWORD?: string;
   TREASURY_SESSION_SECRET?: string;
 }
 
 type PagesContext = { request: Request; env: Env };
+
+const TREASURY_USERNAME = "amar";
 
 const json = (body: unknown, status = 200, headers: HeadersInit = {}) =>
   new Response(JSON.stringify(body), {
@@ -13,12 +14,12 @@ const json = (body: unknown, status = 200, headers: HeadersInit = {}) =>
   });
 
 export const onRequestPost = async ({ request, env }: PagesContext) => {
-  if (!env.TREASURY_USERNAME || !env.TREASURY_PASSWORD || !env.TREASURY_SESSION_SECRET) {
+  if (!env.TREASURY_PASSWORD || !env.TREASURY_SESSION_SECRET) {
     return json({ ok: false, error: "Treasury login is not configured." }, 503);
   }
 
   const body = (await request.json()) as { username?: string; password?: string };
-  if (body.username !== env.TREASURY_USERNAME || body.password !== env.TREASURY_PASSWORD) {
+  if (body.username !== TREASURY_USERNAME || body.password !== env.TREASURY_PASSWORD) {
     return json({ ok: false, error: "Incorrect username or password." }, 401);
   }
 
