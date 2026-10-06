@@ -1,0 +1,3732 @@
+{
+  "transactions": [
+    {
+      "id": "sheet-row-5",
+      "date": "2026-08-30",
+      "rawDate": "46264",
+      "itemNumber": 19,
+      "type": "outflow",
+      "category": "International Dues Paid to TI",
+      "description": "Tyler Collie Payment",
+      "amount": 102,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 5
+    },
+    {
+      "id": "sheet-row-6",
+      "date": "2026-08-29",
+      "rawDate": "46263",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Speakers/Microphone Rentals",
+      "amount": 300,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 6
+    },
+    {
+      "id": "sheet-row-7",
+      "date": "2026-08-29",
+      "rawDate": "46263",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Tent Rental/Jude Cartwright",
+      "amount": 55,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 7
+    },
+    {
+      "id": "sheet-row-8",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Super G' Enterprise - \"Morfose Ossion\"",
+      "amount": 28.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 8
+    },
+    {
+      "id": "sheet-row-9",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Kruger Plastics LTD - Lime Green Plastic Bags",
+      "amount": 46.42,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 9
+    },
+    {
+      "id": "sheet-row-10",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Niel Percientie Supplies",
+      "amount": 231.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 10
+    },
+    {
+      "id": "sheet-row-11",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "ABM Party Rental/ Tent Rental & Basketball Arcade",
+      "amount": 485,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 11
+    },
+    {
+      "id": "sheet-row-12",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Animal Farm/ D'Vontae Rolle",
+      "amount": 350,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 12
+    },
+    {
+      "id": "sheet-row-13",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Neil Perciente Supplies/ B.O.S.S",
+      "amount": 937.62,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 13
+    },
+    {
+      "id": "sheet-row-14",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Meat Max & Groceries",
+      "amount": 35.99,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 14
+    },
+    {
+      "id": "sheet-row-15",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 125,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 15
+    },
+    {
+      "id": "sheet-row-16",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 33,
+      "type": "outflow",
+      "category": "Raffle Gifts",
+      "description": "Raffle Gift",
+      "amount": 59.35,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 16
+    },
+    {
+      "id": "sheet-row-17",
+      "date": "2026-08-26",
+      "rawDate": "46260",
+      "itemNumber": 28,
+      "type": "outflow",
+      "category": "Public Relations",
+      "description": "Davinci Printing Meeting flyers",
+      "amount": 10.33,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 17
+    },
+    {
+      "id": "sheet-row-18",
+      "date": "2026-08-25",
+      "rawDate": "46259",
+      "itemNumber": 26,
+      "type": "outflow",
+      "category": "LAB Expenses",
+      "description": "Meat Max & Groceries",
+      "amount": 109.8,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 18
+    },
+    {
+      "id": "sheet-row-19",
+      "date": "2026-08-25",
+      "rawDate": "46259",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Backgammon Board",
+      "amount": 86.89,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 19
+    },
+    {
+      "id": "sheet-row-20",
+      "date": "2026-08-24",
+      "rawDate": "46258",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "B.O.S.S",
+      "amount": 1128.24,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 20
+    },
+    {
+      "id": "sheet-row-21",
+      "date": "2026-08-24",
+      "rawDate": "46258",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "B.O.S.S",
+      "amount": 227.7,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 21
+    },
+    {
+      "id": "sheet-row-22",
+      "date": "2026-08-19",
+      "rawDate": "46253",
+      "itemNumber": 45,
+      "type": "outflow",
+      "category": "In Club Leadership Tour",
+      "description": "Payment For tent",
+      "amount": 150,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 22
+    },
+    {
+      "id": "sheet-row-23",
+      "date": "2026-08-18",
+      "rawDate": "46252",
+      "itemNumber": 31,
+      "type": "outflow",
+      "category": "Membership Expenses",
+      "description": "Members Pins: (15 pins: 8.81 x 15, SAA, SEC, VPPR 11.28 x 3)",
+      "amount": 165.99,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 23
+    },
+    {
+      "id": "sheet-row-24",
+      "date": "2026-08-14",
+      "rawDate": "46248",
+      "itemNumber": 19,
+      "type": "outflow",
+      "category": "International Dues Paid to TI",
+      "description": "Kevin Edgecombe One Quarter Payment",
+      "amount": 20,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 24
+    },
+    {
+      "id": "sheet-row-25",
+      "date": "2026-08-14",
+      "rawDate": "46248",
+      "itemNumber": 41,
+      "type": "outflow",
+      "category": "Awards",
+      "description": "Stand Plaque - In Club Leadership Tour",
+      "amount": 55,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 25
+    },
+    {
+      "id": "sheet-row-26",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 33,
+      "type": "outflow",
+      "category": "Raffle Gifts",
+      "description": "Raffle Gift",
+      "amount": 33,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 26
+    },
+    {
+      "id": "sheet-row-27",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 170,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 27
+    },
+    {
+      "id": "sheet-row-28",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 8,
+      "type": "inflow",
+      "category": "Neil Percentie Back to School",
+      "description": "Corporate Donation/ Niel Perciente",
+      "amount": 5000,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 28
+    },
+    {
+      "id": "sheet-row-29",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Inflow",
+      "amount": 76,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 29
+    },
+    {
+      "id": "sheet-row-30",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 28,
+      "type": "outflow",
+      "category": "Public Relations",
+      "description": "Davinci Printing Meeting flyers",
+      "amount": 51.98,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 30
+    },
+    {
+      "id": "sheet-row-31",
+      "date": "2026-08-12",
+      "rawDate": "46246",
+      "itemNumber": 19,
+      "type": "outflow",
+      "category": "International Dues Paid to TI",
+      "description": "Dues To TI/ Cripsin Gibson",
+      "amount": 189,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 31
+    },
+    {
+      "id": "sheet-row-32",
+      "date": "2026-08-11",
+      "rawDate": "46245",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Meat Max & Groceries",
+      "amount": 58.12,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 32
+    },
+    {
+      "id": "sheet-row-33",
+      "date": "2026-08-07",
+      "rawDate": "46241",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 135,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 33
+    },
+    {
+      "id": "sheet-row-34",
+      "date": "2026-08-07",
+      "rawDate": "46241",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment",
+      "amount": 105,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 34
+    },
+    {
+      "id": "sheet-row-35",
+      "date": "2026-08-05",
+      "rawDate": "46239",
+      "itemNumber": 31,
+      "type": "outflow",
+      "category": "Membership Expenses",
+      "description": "Prints for Thursday Meeting",
+      "amount": 77.28,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 35
+    },
+    {
+      "id": "sheet-row-36",
+      "date": "2026-08-04",
+      "rawDate": "46238",
+      "itemNumber": 31,
+      "type": "outflow",
+      "category": "Membership Expenses",
+      "description": "New Members Booklet-Davinci Printing",
+      "amount": 100.75,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 36
+    },
+    {
+      "id": "sheet-row-37",
+      "date": "2026-08-04",
+      "rawDate": "46238",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Refreshment Outflow",
+      "amount": 141.97,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 37
+    },
+    {
+      "id": "sheet-row-38",
+      "date": "2026-08-04",
+      "rawDate": "46238",
+      "itemNumber": 41,
+      "type": "outflow",
+      "category": "Awards",
+      "description": "Awards Expense",
+      "amount": 120.78,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 38
+    },
+    {
+      "id": "sheet-row-39",
+      "date": "2026-08-04",
+      "rawDate": "46238",
+      "itemNumber": 25,
+      "type": "outflow",
+      "category": "Neil Percentie Back to School",
+      "description": "3D Party Rentals & Macots/ Bouncing House W Slide",
+      "amount": 200,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 39
+    },
+    {
+      "id": "sheet-row-40",
+      "date": "2026-07-30",
+      "rawDate": "46233",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 135,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 40
+    },
+    {
+      "id": "sheet-row-41",
+      "date": "2026-07-30",
+      "rawDate": "46233",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment",
+      "amount": 115,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 41
+    },
+    {
+      "id": "sheet-row-42",
+      "date": "2026-07-30",
+      "rawDate": "46233",
+      "itemNumber": 4,
+      "type": "inflow",
+      "category": "Fines",
+      "description": "Fine Collected",
+      "amount": 10,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 42
+    },
+    {
+      "id": "sheet-row-43",
+      "date": "2026-07-24",
+      "rawDate": "46227",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 180,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 43
+    },
+    {
+      "id": "sheet-row-44",
+      "date": "2026-07-24",
+      "rawDate": "46227",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment",
+      "amount": 88,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 44
+    },
+    {
+      "id": "sheet-row-45",
+      "date": "2026-07-23",
+      "rawDate": "46226",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Meat Max & Groceries",
+      "amount": 41.01,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 45
+    },
+    {
+      "id": "sheet-row-46",
+      "date": "2026-07-16",
+      "rawDate": "46219",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 91,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 46
+    },
+    {
+      "id": "sheet-row-47",
+      "date": "2026-07-16",
+      "rawDate": "46219",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment",
+      "amount": 120,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 47
+    },
+    {
+      "id": "sheet-row-48",
+      "date": "2026-07-16",
+      "rawDate": "46219",
+      "itemNumber": 4,
+      "type": "inflow",
+      "category": "Fines",
+      "description": "Fine Collected",
+      "amount": 5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 48
+    },
+    {
+      "id": "sheet-row-49",
+      "date": "2026-07-14",
+      "rawDate": "46217",
+      "itemNumber": 26,
+      "type": "outflow",
+      "category": "LAB Expenses",
+      "description": "Pizza Purchase",
+      "amount": 38.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 49
+    },
+    {
+      "id": "sheet-row-50",
+      "date": "2026-07-09",
+      "rawDate": "46212",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 124,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 50
+    },
+    {
+      "id": "sheet-row-51",
+      "date": "2026-07-09",
+      "rawDate": "46212",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment",
+      "amount": 81,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 51
+    },
+    {
+      "id": "sheet-row-52",
+      "date": "2026-07-09",
+      "rawDate": "46212",
+      "itemNumber": 4,
+      "type": "inflow",
+      "category": "Fines",
+      "description": "Fine Collected",
+      "amount": 2,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 52
+    },
+    {
+      "id": "sheet-row-53",
+      "date": "2026-07-06",
+      "rawDate": "46209",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Plastic Cups 50CT & Viriginia Peanuts",
+      "amount": 38.19,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 53
+    },
+    {
+      "id": "sheet-row-54",
+      "date": "2026-07-06",
+      "rawDate": "46209",
+      "itemNumber": 41,
+      "type": "outflow",
+      "category": "Awards",
+      "description": "Apex Awards Signs & Engravings",
+      "amount": 40.26,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 54
+    },
+    {
+      "id": "sheet-row-55",
+      "date": "2026-07-02",
+      "rawDate": "46205",
+      "itemNumber": 6,
+      "type": "inflow",
+      "category": "Installation",
+      "description": "Total Ad Booklet Collected",
+      "amount": 6980,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 55
+    },
+    {
+      "id": "sheet-row-56",
+      "date": "2026-07-02",
+      "rawDate": "46205",
+      "itemNumber": 22,
+      "type": "outflow",
+      "category": "Installation Expenses",
+      "description": "Booklet Payment",
+      "amount": 501.38,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 56
+    },
+    {
+      "id": "sheet-row-57",
+      "date": "2026-07-01",
+      "rawDate": "46204",
+      "itemNumber": 22,
+      "type": "outflow",
+      "category": "Installation Expenses",
+      "description": "Hilton Room Payment",
+      "amount": 2300,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 57
+    },
+    {
+      "id": "sheet-row-58",
+      "date": "2026-07-01",
+      "rawDate": "46204",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Home Frabrics",
+      "amount": 70.22,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 58
+    },
+    {
+      "id": "sheet-row-59",
+      "date": "2026-07-01",
+      "rawDate": "46204",
+      "itemNumber": 41,
+      "type": "outflow",
+      "category": "Awards",
+      "description": "Apex Awards Signs & Engravings",
+      "amount": 80.52,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 59
+    },
+    {
+      "id": "sheet-row-60",
+      "date": "2026-07-01",
+      "rawDate": "46204",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "700 Wines & Spirits",
+      "amount": 129,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 60
+    },
+    {
+      "id": "sheet-row-61",
+      "date": "2025-08-14",
+      "rawDate": "45883",
+      "itemNumber": 41,
+      "type": "outflow",
+      "category": "Awards",
+      "description": "Bahamas Engraving Plaque - In club leadership tour",
+      "amount": 60.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "needs_review",
+      "issues": [
+        "Transaction is outside the 2026/2027 program year"
+      ],
+      "sourceRow": 61
+    },
+    {
+      "id": "sheet-row-62",
+      "date": "2024-07-05",
+      "rawDate": "45478",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "The Purple Brew",
+      "amount": 210.46,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "needs_review",
+      "issues": [
+        "Transaction is outside the 2026/2027 program year"
+      ],
+      "sourceRow": 62
+    },
+    {
+      "id": "sheet-row-63",
+      "date": null,
+      "rawDate": "-618497",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Refreshment Outflow",
+      "amount": 58.12,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "needs_review",
+      "issues": [
+        "Missing or invalid transaction date"
+      ],
+      "sourceRow": 63
+    },
+    {
+      "id": "sheet-row-64",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Inflow",
+      "amount": 117,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 64
+    },
+    {
+      "id": "sheet-row-65",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 4,
+      "type": "inflow",
+      "category": "Fines",
+      "description": "Fine Collected",
+      "amount": 2,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 65
+    },
+    {
+      "id": "sheet-row-66",
+      "date": "2026-08-27",
+      "rawDate": "46261",
+      "itemNumber": 20,
+      "type": "outflow",
+      "category": "Room Rental",
+      "description": "Room rental expense",
+      "amount": 1350,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 66
+    },
+    {
+      "id": "sheet-row-67",
+      "date": "2026-09-04",
+      "rawDate": "46269",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 121,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 67
+    },
+    {
+      "id": "sheet-row-68",
+      "date": "2026-09-06",
+      "rawDate": "46271",
+      "itemNumber": 19,
+      "type": "outflow",
+      "category": "International Dues Paid to TI",
+      "description": "Payment for phillip Humes",
+      "amount": 82,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 68
+    },
+    {
+      "id": "sheet-row-69",
+      "date": "2026-09-04",
+      "rawDate": "46269",
+      "itemNumber": 4,
+      "type": "inflow",
+      "category": "Fines",
+      "description": "Fine Collected",
+      "amount": 5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 69
+    },
+    {
+      "id": "sheet-row-70",
+      "date": "2026-09-04",
+      "rawDate": "46269",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Collection",
+      "amount": 54,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 70
+    },
+    {
+      "id": "sheet-row-71",
+      "date": "2026-09-09",
+      "rawDate": "46274",
+      "itemNumber": 19,
+      "type": "outflow",
+      "category": "International Dues Paid to TI",
+      "description": "Cheque No. 2517/ Membership Dues",
+      "amount": 7851,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 71
+    },
+    {
+      "id": "sheet-row-72",
+      "date": "2026-09-04",
+      "rawDate": "46269",
+      "itemNumber": 5,
+      "type": "inflow",
+      "category": "Club 1600 Pins",
+      "description": "Duke Bodie Pins",
+      "amount": 15,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 72
+    },
+    {
+      "id": "sheet-row-73",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 160,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 73
+    },
+    {
+      "id": "sheet-row-74",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 5,
+      "type": "inflow",
+      "category": "Club 1600 Pins",
+      "description": "Duran Humes Pin Payment",
+      "amount": 15,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 74
+    },
+    {
+      "id": "sheet-row-75",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 9,
+      "type": "inflow",
+      "category": "Miscellaneous",
+      "description": "Makonnen Thurston Shirt Payment)",
+      "amount": 35,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 75
+    },
+    {
+      "id": "sheet-row-76",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Collection",
+      "amount": 88,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 76
+    },
+    {
+      "id": "sheet-row-77",
+      "date": "2026-09-24",
+      "rawDate": "46289",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 160,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 77
+    },
+    {
+      "id": "sheet-row-78",
+      "date": "2026-09-17",
+      "rawDate": "46282",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Collection",
+      "amount": 133,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 78
+    },
+    {
+      "id": "sheet-row-79",
+      "date": "2026-09-17",
+      "rawDate": "46282",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Collection",
+      "amount": 67,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 79
+    },
+    {
+      "id": "sheet-row-80",
+      "date": "2026-09-22",
+      "rawDate": "46287",
+      "itemNumber": 5,
+      "type": "inflow",
+      "category": "Club 1600 Pins",
+      "description": "Theodore Sealy Replacement Pin Payment",
+      "amount": 15,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 80
+    },
+    {
+      "id": "sheet-row-81",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "Super Value",
+      "amount": 98.6,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 81
+    },
+    {
+      "id": "sheet-row-82",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "Geneva Brass Seafood",
+      "amount": 47.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 82
+    },
+    {
+      "id": "sheet-row-83",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "Parkgate Marketplace",
+      "amount": 62.27,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 83
+    },
+    {
+      "id": "sheet-row-84",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "Sharry Kitchen",
+      "amount": 165,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 84
+    },
+    {
+      "id": "sheet-row-85",
+      "date": "2026-09-12",
+      "rawDate": "46277",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "Variety Disposable Products",
+      "amount": 8.05,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 85
+    },
+    {
+      "id": "sheet-row-86",
+      "date": "2026-07-03",
+      "rawDate": "46206",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 1.67,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 86
+    },
+    {
+      "id": "sheet-row-87",
+      "date": "2026-07-06",
+      "rawDate": "46209",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Monthly Terminal rental + VAT",
+      "amount": 60.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 87
+    },
+    {
+      "id": "sheet-row-88",
+      "date": "2026-07-06",
+      "rawDate": "46209",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 8.25,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 88
+    },
+    {
+      "id": "sheet-row-89",
+      "date": "2026-07-17",
+      "rawDate": "46220",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 27.03,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 89
+    },
+    {
+      "id": "sheet-row-90",
+      "date": "2026-07-20",
+      "rawDate": "46223",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 11.06,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 90
+    },
+    {
+      "id": "sheet-row-91",
+      "date": "2026-07-24",
+      "rawDate": "46227",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 27.19,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 91
+    },
+    {
+      "id": "sheet-row-92",
+      "date": "2026-07-30",
+      "rawDate": "46233",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "service chare + VAT",
+      "amount": 33,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 92
+    },
+    {
+      "id": "sheet-row-93",
+      "date": "2026-07-31",
+      "rawDate": "46234",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Stamp Tax",
+      "amount": 0.4,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 93
+    },
+    {
+      "id": "sheet-row-94",
+      "date": "2026-08-04",
+      "rawDate": "46238",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 11.52,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 94
+    },
+    {
+      "id": "sheet-row-95",
+      "date": "2026-08-06",
+      "rawDate": "46240",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Monthly Terminal rental + VAT",
+      "amount": 60.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 95
+    },
+    {
+      "id": "sheet-row-96",
+      "date": "2026-08-10",
+      "rawDate": "46244",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 3.56,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 96
+    },
+    {
+      "id": "sheet-row-97",
+      "date": "2026-08-13",
+      "rawDate": "46247",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Wire Commission + Tax",
+      "amount": 8.25,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 97
+    },
+    {
+      "id": "sheet-row-98",
+      "date": "2026-08-21",
+      "rawDate": "46255",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 2.05,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 98
+    },
+    {
+      "id": "sheet-row-99",
+      "date": "2026-08-28",
+      "rawDate": "46262",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Card processing + fee",
+      "amount": 9.7,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 99
+    },
+    {
+      "id": "sheet-row-100",
+      "date": "2026-08-30",
+      "rawDate": "46264",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "service chare + VAT",
+      "amount": 41.25,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 100
+    },
+    {
+      "id": "sheet-row-101",
+      "date": "2026-08-31",
+      "rawDate": "46265",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Stamp Tax",
+      "amount": 1.2,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 101
+    },
+    {
+      "id": "sheet-row-102",
+      "date": "2026-09-04",
+      "rawDate": "46269",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "vat on discount rate",
+      "amount": 2.39,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 102
+    },
+    {
+      "id": "sheet-row-103",
+      "date": "2026-09-07",
+      "rawDate": "46272",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Monthly Terminal rental + VAT",
+      "amount": 55,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 103
+    },
+    {
+      "id": "sheet-row-104",
+      "date": "2026-09-07",
+      "rawDate": "46272",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "VAT on discount rate",
+      "amount": 5.5,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 104
+    },
+    {
+      "id": "sheet-row-105",
+      "date": "2026-09-18",
+      "rawDate": "46283",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Toastmaster International club",
+      "amount": 7.08,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 105
+    },
+    {
+      "id": "sheet-row-106",
+      "date": "2026-09-18",
+      "rawDate": "46283",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "VAT on discount rate",
+      "amount": 0.71,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 106
+    },
+    {
+      "id": "sheet-row-107",
+      "date": "2026-09-25",
+      "rawDate": "46290",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "Toastmaster International club",
+      "amount": 9.06,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 107
+    },
+    {
+      "id": "sheet-row-108",
+      "date": "2026-09-25",
+      "rawDate": "46290",
+      "itemNumber": 40,
+      "type": "outflow",
+      "category": "Bank Charges",
+      "description": "VAT on discount rate",
+      "amount": 0.91,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 108
+    },
+    {
+      "id": "sheet-row-109",
+      "date": null,
+      "rawDate": "-618476",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Quality Supermarket",
+      "amount": 27.68,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "needs_review",
+      "issues": [
+        "Missing or invalid transaction date"
+      ],
+      "sourceRow": 109
+    },
+    {
+      "id": "sheet-row-110",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Meat Max & Groceries",
+      "amount": 69.21,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 110
+    },
+    {
+      "id": "sheet-row-111",
+      "date": "2026-09-24",
+      "rawDate": "46289",
+      "itemNumber": 32,
+      "type": "outflow",
+      "category": "Nights of Past Presidents",
+      "description": "700 Wines & Spirits",
+      "amount": 135.8,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 111
+    },
+    {
+      "id": "sheet-row-112",
+      "date": "2026-09-03",
+      "rawDate": "46268",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Meat Max & Groceries",
+      "amount": 32.77,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 112
+    },
+    {
+      "id": "sheet-row-113",
+      "date": "2026-09-03",
+      "rawDate": "46268",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "700 Wines & Spirits",
+      "amount": 52.15,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 113
+    },
+    {
+      "id": "sheet-row-114",
+      "date": "2026-09-14",
+      "rawDate": "46279",
+      "itemNumber": 38,
+      "type": "outflow",
+      "category": "New Members Orientation",
+      "description": "The Restaurant Supply Company #2 Ltd.",
+      "amount": 164.11,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 114
+    },
+    {
+      "id": "sheet-row-115",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Portraits & LA Sawyer",
+      "amount": 35,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 115
+    },
+    {
+      "id": "sheet-row-116",
+      "date": "2026-09-10",
+      "rawDate": "46275",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Commonwealth Brewery LTD",
+      "amount": 24.75,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 116
+    },
+    {
+      "id": "sheet-row-117",
+      "date": "2026-09-01",
+      "rawDate": "46266",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "The WOK",
+      "amount": 182.49,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 117
+    },
+    {
+      "id": "sheet-row-118",
+      "date": "2026-09-24",
+      "rawDate": "46289",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Super G's Enterprise",
+      "amount": 14.55,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 118
+    },
+    {
+      "id": "sheet-row-119",
+      "date": "2026-09-17",
+      "rawDate": "46282",
+      "itemNumber": 29,
+      "type": "outflow",
+      "category": "Refreshments",
+      "description": "Super Value",
+      "amount": 17.29,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 119
+    },
+    {
+      "id": "sheet-row-120",
+      "date": "2025-09-28",
+      "rawDate": "45928",
+      "itemNumber": 28,
+      "type": "outflow",
+      "category": "Public Relations",
+      "description": "Davinci Printing Meeting flyers",
+      "amount": 13.44,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "needs_review",
+      "issues": [
+        "Transaction is outside the 2026/2027 program year"
+      ],
+      "sourceRow": 120
+    },
+    {
+      "id": "sheet-row-121",
+      "date": "2026-10-01",
+      "rawDate": "46296",
+      "itemNumber": 28,
+      "type": "outflow",
+      "category": "Public Relations",
+      "description": "Davinci Printing Meeting flyers",
+      "amount": 52.25,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 121
+    },
+    {
+      "id": "sheet-row-122",
+      "date": "2026-09-24",
+      "rawDate": "46289",
+      "itemNumber": 2,
+      "type": "inflow",
+      "category": "Refreshments",
+      "description": "Refreshment Stand Inflow",
+      "amount": 72,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 122
+    },
+    {
+      "id": "sheet-row-123",
+      "date": "2026-10-01",
+      "rawDate": "46296",
+      "itemNumber": 3,
+      "type": "inflow",
+      "category": "Raffle",
+      "description": "Raffle Inflow",
+      "amount": 181,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 123
+    },
+    {
+      "id": "sheet-row-124",
+      "date": "2026-10-01",
+      "rawDate": "46296",
+      "itemNumber": 33,
+      "type": "outflow",
+      "category": "Raffle Gifts",
+      "description": "700 Wines & Spirits - Absolut Vodka",
+      "amount": 25,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 124
+    },
+    {
+      "id": "sheet-row-125",
+      "date": "2026-10-01",
+      "rawDate": "46296",
+      "itemNumber": 33,
+      "type": "outflow",
+      "category": "Raffle Gifts",
+      "description": "The Merchants Cellar",
+      "amount": 35,
+      "account": "Operating account",
+      "method": "Google Sheet record",
+      "reference": "",
+      "notes": "",
+      "status": "posted",
+      "issues": [],
+      "sourceRow": 125
+    }
+  ],
+  "members": [
+    {
+      "id": "member-row-8",
+      "name": "Kevin Sweeting",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-8",
+          "date": "2026-07-09",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-9",
+      "name": "Dwain Wallace",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-9",
+          "date": "2026-07-09",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-10",
+      "name": "Johnathan Albury",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-10",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-11",
+      "name": "John C Fowler",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-11",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-12",
+      "name": "Donovan 'Jay' Rolle",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-12",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Cash",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Cash"
+    },
+    {
+      "id": "member-row-13",
+      "name": "Paul Taylor",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-13",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-14",
+      "name": "Clement Foster",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-14",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-15",
+      "name": "Kieth Major",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-15",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-16",
+      "name": "Baron Longley",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-16",
+          "date": "2026-07-02",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-17",
+      "name": "Carlos Palacious",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-17",
+          "date": "2026-07-07",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-18",
+      "name": "Cyprian Gibson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-18",
+          "date": "2026-07-09",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-19",
+      "name": "Azano Major",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-19",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-20",
+      "name": "Daniel Douglas",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-20",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-21",
+      "name": "Anthony Bodie",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-21",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-22",
+      "name": "Mandella Campbell",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-22",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-23",
+      "name": "Amar Pearson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-23",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-24",
+      "name": "Phillip \"Brave\" Davis",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-24",
+          "date": "2026-07-13",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-25",
+      "name": "Dwight Burrows",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-25",
+          "date": "2026-07-16",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-26",
+      "name": "Delmaro Duncombe",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-26",
+          "date": "2026-07-16",
+          "amount": 250,
+          "method": "Cash",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Cash"
+    },
+    {
+      "id": "member-row-27",
+      "name": "Stefan Bonimy",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-27",
+          "date": "2026-07-17",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-28",
+      "name": "L Edgar Moxey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-28",
+          "date": "2026-07-20",
+          "amount": 250,
+          "method": "bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank Transfer"
+    },
+    {
+      "id": "member-row-29",
+      "name": "Berlin Smith",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-29",
+          "date": "2026-07-21",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-30",
+      "name": "Franklyn Winder",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-30",
+          "date": "2026-07-24",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-31",
+      "name": "Craig Ferguson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-31",
+          "date": "2026-07-24",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-32",
+      "name": "Raydon Poitier",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-32",
+          "date": "2026-07-24",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-33",
+      "name": "Jamaal Cooper",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-33",
+          "date": "2026-07-24",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-34",
+      "name": "Shacoy Mullings, DTM",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-34",
+          "date": "2026-07-27",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-35",
+      "name": "Valentinoe Munroe",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-35",
+          "date": "2026-07-28",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-36",
+      "name": "Eddie Toote III",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-36",
+          "date": "2026-07-28",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-37",
+      "name": "Theodore Johnson",
+      "type": "New",
+      "expected": 300,
+      "payments": [
+        {
+          "id": "dues-row-37",
+          "date": "2026-07-28",
+          "amount": 300,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-38",
+      "name": "Ryan Bastian",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-38",
+          "date": "2026-07-29",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-39",
+      "name": "Christian Saunders",
+      "type": "New",
+      "expected": 300,
+      "payments": [
+        {
+          "id": "dues-row-39",
+          "date": "2026-07-28",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-40",
+      "name": "Bernard Hanna",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-40",
+          "date": "2026-07-30",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-41",
+      "name": "John Taylor",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-41",
+          "date": "2026-07-30",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-42",
+      "name": "Ancin Munnings, DTM",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-42",
+          "date": "2026-07-30",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-43",
+      "name": "Arlington Hunter",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-43",
+          "date": "2026-07-31",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-44",
+      "name": "Kevin Mcdonald",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-44",
+          "date": "2026-07-31",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-45",
+      "name": "Anthony Longley",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-45",
+          "date": "2026-07-31",
+          "amount": 150,
+          "method": "Bank transfer/ other half due on August 10th",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank transfer/ other half due on August 10th"
+    },
+    {
+      "id": "member-row-46",
+      "name": "Aaron Jones",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-46",
+          "date": "2026-08-04",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-47",
+      "name": "Edward Carey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "covered_by_club",
+      "notes": "Club Covers his dues/ Club Tradition",
+      "special": "Covered by Club"
+    },
+    {
+      "id": "member-row-48",
+      "name": "Chato Outten",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-48",
+          "date": "2026-08-06",
+          "amount": 250,
+          "method": "Dues Paid",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Dues Paid"
+    },
+    {
+      "id": "member-row-49",
+      "name": "Gordon soles",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-49",
+          "date": "2026-08-06",
+          "amount": 250,
+          "method": "Check",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Check"
+    },
+    {
+      "id": "member-row-50",
+      "name": "Kevin Edgecombe",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-50",
+          "date": "2026-08-06",
+          "amount": 170,
+          "method": "Will collect additional payment in 2 weeks",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Will collect additional payment in 2 weeks"
+    },
+    {
+      "id": "member-row-51",
+      "name": "Duran Humes",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-51",
+          "date": "2026-08-11",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-52",
+      "name": "Sherwin Evans",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-52",
+          "date": "2026-08-11",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-53",
+      "name": "Charles Newbold",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-53",
+          "date": "2026-08-11",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-54",
+      "name": "Devaugh Taylor",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-54",
+          "date": "2026-08-11",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-55",
+      "name": "Dwayne Davis",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-55",
+          "date": "2026-08-11",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-56",
+      "name": "Crispin Gibson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-56",
+          "date": null,
+          "amount": 250,
+          "method": "Google Sheet record",
+          "status": "needs_review",
+          "issues": [
+            "Payment amount exists but payment date is missing"
+          ]
+        }
+      ],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-57",
+      "name": "Lasalle Thompson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-57",
+          "date": "2026-07-01",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-58",
+      "name": "Wellington Ramsey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-58",
+          "date": "2026-08-13",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-59",
+      "name": "Kenny Mackey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-59",
+          "date": "2026-08-20",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-60",
+      "name": "Hubert Edwards",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-60",
+          "date": "2026-08-26",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-61",
+      "name": "George Taylor",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-61",
+          "date": "2026-08-26",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-62",
+      "name": "Matt Kinsey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-63",
+      "name": "Paul Coakley",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-63",
+          "date": null,
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "needs_review",
+          "issues": [
+            "Payment amount exists but payment date is missing"
+          ]
+        }
+      ],
+      "computedStatus": "unpaid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-64",
+      "name": "Makonnen Thurston",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-64",
+          "date": "2026-08-27",
+          "amount": 250,
+          "method": "Cash",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Cash"
+    },
+    {
+      "id": "member-row-65",
+      "name": "Christopher Cash",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-65",
+          "date": "2026-08-27",
+          "amount": 125,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-66",
+      "name": "Tyler Collie",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-66",
+          "date": null,
+          "amount": 250,
+          "method": "Google Sheet record",
+          "status": "needs_review",
+          "issues": [
+            "Payment amount exists but payment date is missing"
+          ]
+        }
+      ],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-67",
+      "name": "Nigel Hepburn",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-67",
+          "date": null,
+          "amount": 250,
+          "method": "Google Sheet record",
+          "status": "needs_review",
+          "issues": [
+            "Payment amount exists but payment date is missing"
+          ]
+        }
+      ],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-68",
+      "name": "Ernesto Gongora",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-68",
+          "date": "2026-08-30",
+          "amount": 200,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-69",
+      "name": "Antonio Miller",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-69",
+          "date": "2026-08-31",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-70",
+      "name": "Roderick Colebrook, DTM",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-70",
+          "date": "2026-08-31",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-71",
+      "name": "Johnathan Smith",
+      "type": "New",
+      "expected": 300,
+      "payments": [
+        {
+          "id": "dues-row-71",
+          "date": "2026-08-06",
+          "amount": 300,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-72",
+      "name": "Dominic Strachan",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-72",
+          "date": "2026-09-03",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-73",
+      "name": "Duke Bodie",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-73",
+          "date": "2026-09-03",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-74",
+      "name": "Chervez Brown",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-74",
+          "date": "2026-09-04",
+          "amount": 150,
+          "method": "bank transfer/ remaining dues needed",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "bank transfer/ remaining dues needed"
+    },
+    {
+      "id": "member-row-75",
+      "name": "Orthinel Smith",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "covered_by_club",
+      "notes": "Covered by club for his support at N.P Event",
+      "special": "Covered by Club"
+    },
+    {
+      "id": "member-row-76",
+      "name": "Phillip Humes",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-77",
+      "name": "Dion Godet",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-77",
+          "date": "2026-09-07",
+          "amount": 250,
+          "method": "Check",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Check"
+    },
+    {
+      "id": "member-row-78",
+      "name": "Paul Fraizer",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-78",
+          "date": "2026-09-09",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-79",
+      "name": "Troy Strachan",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-79",
+          "date": "2026-09-10",
+          "amount": 125,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-80",
+      "name": "Lorenza Carey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-80",
+          "date": "2026-09-11",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-81",
+      "name": "Harold Munnings III",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-81",
+          "date": "2026-09-13",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-82",
+      "name": "Antoyne Hinsey",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-82",
+          "date": "2026-09-14",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-83",
+      "name": "Deangelo Johnson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-83",
+          "date": "2026-09-14",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-84",
+      "name": "Kieth Seymour Sr.",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-84",
+          "date": "2026-09-14",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-85",
+      "name": "Jevon McIntosh",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-85",
+          "date": "2026-09-14",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-86",
+      "name": "Kenyon Ferguson",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-86",
+          "date": "2026-09-17",
+          "amount": 100,
+          "method": "Cash",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Cash"
+    },
+    {
+      "id": "member-row-87",
+      "name": "Danie Rahming",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-87",
+          "date": "2026-09-19",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-88",
+      "name": "Jopol Shepard",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-88",
+          "date": "2026-09-24",
+          "amount": 200,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-89",
+      "name": "Ryan Carroll",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-89",
+          "date": "2026-09-24",
+          "amount": 250,
+          "method": "Cash",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Cash"
+    },
+    {
+      "id": "member-row-90",
+      "name": "Theodore Sealy",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-90",
+          "date": "2026-09-28",
+          "amount": 250,
+          "method": "Bank Transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank Transfer"
+    },
+    {
+      "id": "member-row-91",
+      "name": "Greg Miller",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-91",
+          "date": "2026-09-24",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-92",
+      "name": "Charles Rose",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-92",
+          "date": "2026-09-29",
+          "amount": 125,
+          "method": "Bank Transfer, will complete second payment First week of october",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "partial",
+      "notes": "Bank Transfer, will complete second payment First week of october"
+    },
+    {
+      "id": "member-row-93",
+      "name": "Jordan Clarke",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-93",
+          "date": "2026-09-30",
+          "amount": 250,
+          "method": "bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "bank transfer"
+    },
+    {
+      "id": "member-row-94",
+      "name": "Earnal Munroe",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-94",
+          "date": "2026-10-01",
+          "amount": 250,
+          "method": "Bank transfer",
+          "status": "posted",
+          "issues": []
+        }
+      ],
+      "computedStatus": "paid",
+      "notes": "Bank transfer"
+    },
+    {
+      "id": "member-row-95",
+      "name": "Rodney Bain",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-96",
+      "name": "Geneo Turnquest",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [
+        {
+          "id": "dues-row-96",
+          "date": null,
+          "amount": 250,
+          "method": "Bank Transfer, covered by Johnathan Albury",
+          "status": "needs_review",
+          "issues": [
+            "Payment amount exists but payment date is missing"
+          ]
+        }
+      ],
+      "computedStatus": "unpaid",
+      "notes": "Bank Transfer, covered by Johnathan Albury"
+    },
+    {
+      "id": "member-row-97",
+      "name": "Joshua Miller",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "unpaid",
+      "notes": null
+    },
+    {
+      "id": "member-row-98",
+      "name": "Nicholas Higgs",
+      "type": "Existing",
+      "expected": 250,
+      "payments": [],
+      "computedStatus": "unpaid",
+      "notes": null
+    }
+  ],
+  "issues": [
+    {
+      "entity": "transaction",
+      "legacy_id": "sheet-row-61",
+      "description": "Bahamas Engraving Plaque - In club leadership tour",
+      "issue": "Transaction is outside the 2026/2027 program year",
+      "raw_value": "45883"
+    },
+    {
+      "entity": "transaction",
+      "legacy_id": "sheet-row-62",
+      "description": "The Purple Brew",
+      "issue": "Transaction is outside the 2026/2027 program year",
+      "raw_value": "45478"
+    },
+    {
+      "entity": "transaction",
+      "legacy_id": "sheet-row-63",
+      "description": "Refreshment Outflow",
+      "issue": "Missing or invalid transaction date",
+      "raw_value": "-618497"
+    },
+    {
+      "entity": "transaction",
+      "legacy_id": "sheet-row-109",
+      "description": "Quality Supermarket",
+      "issue": "Missing or invalid transaction date",
+      "raw_value": "-618476"
+    },
+    {
+      "entity": "transaction",
+      "legacy_id": "sheet-row-120",
+      "description": "Davinci Printing Meeting flyers",
+      "issue": "Transaction is outside the 2026/2027 program year",
+      "raw_value": "45928"
+    },
+    {
+      "entity": "dues_payment",
+      "legacy_id": "dues-row-56",
+      "member_name": "Crispin Gibson",
+      "issue": "Payment amount exists but payment date is missing",
+      "raw_value": null
+    },
+    {
+      "entity": "dues_payment",
+      "legacy_id": "dues-row-63",
+      "member_name": "Paul Coakley",
+      "issue": "Payment amount exists but payment date is missing",
+      "raw_value": null
+    },
+    {
+      "entity": "dues_payment",
+      "legacy_id": "dues-row-66",
+      "member_name": "Tyler Collie",
+      "issue": "Payment amount exists but payment date is missing",
+      "raw_value": null
+    },
+    {
+      "entity": "dues_payment",
+      "legacy_id": "dues-row-67",
+      "member_name": "Nigel Hepburn",
+      "issue": "Payment amount exists but payment date is missing",
+      "raw_value": null
+    },
+    {
+      "entity": "dues_payment",
+      "legacy_id": "dues-row-96",
+      "member_name": "Geneo Turnquest",
+      "issue": "Payment amount exists but payment date is missing",
+      "raw_value": null
+    }
+  ]
+}
