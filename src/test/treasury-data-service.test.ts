@@ -32,9 +32,7 @@ describe("Club 1600 treasury data layer", () => {
     });
   });
 
-  it("retains the requested local development credentials", () => {
-    expect(validateTemporaryCredentials("amar", "100in100")).toBe(true);
-    expect(validateTemporaryCredentials("amar", "wrong")).toBe(false);
-    expect(validateTemporaryCredentials("other", "100in100")).toBe(false);
+  it("does not expose a committed development password", () => {
+    expect(validateTemporaryCredentials("amar", "not-a-real-password")).toBe(false);
   });
 });
